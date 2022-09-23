@@ -10,3 +10,5 @@ Typically e-commerce datasets are proprietary and consequently hard to find amon
 ### Acknowledgements
 Per the UCI Machine Learning Repository, this data was made available by Dr Daqing Chen, Director: Public Analytics group. chend '@' lsbu.ac.uk, School of Engineering, London South Bank University, London SE1 0AA, UK.
 Image from stocksnap.io.
+
+### [Download the Dataset](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
