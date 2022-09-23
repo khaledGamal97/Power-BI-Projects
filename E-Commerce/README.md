@@ -12,3 +12,6 @@ Per the UCI Machine Learning Repository, this data was made available by Dr Daqi
 Image from stocksnap.io.
 
 ### [Download the Dataset](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
+
+## Overview Of E-commerce Data Analysis
+![Dashboard](https://github.com/khaledGamal97/Power-BI-Projects/blob/main/E-Commerce/Dashboard.jpg)
